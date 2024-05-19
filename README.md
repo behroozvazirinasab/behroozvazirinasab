@@ -10,7 +10,7 @@ I've been learning to code for 4 years. i started with html and css and js, have
 * 🖥️  See my portfolio at [linkedin](http://www.linkedin.com/in/behrooz-vazirinasab-8372aa289/)
 * ✉️  You can contact me at [behrooz.bvn@hotmail.com](mailto:behrooz.bvn@hotmail.com)
 * 🚀  I'm currently working on [Orash Software Group](http://orash.ir)
-* 🧠  I'm learning nuxtjs , tailwind
+* 🧠  I'm learning nuxtjs , TailwindCSS
 
 ### Skills
 
